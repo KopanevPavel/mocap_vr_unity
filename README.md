@@ -1,2 +1,2 @@
-# mocap_vr_unity
+# MoCap based game tutor in Unity
 Unity scene for game tutorial startup
