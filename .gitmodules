@@ -1,3 +1,6 @@
 [submodule "dnn_mocap/ROMP"]
 	path = dnn_mocap/ROMP
 	url = https://github.com/Arthur151/ROMP.git
+[submodule "dnn_mocap/QuickMocap-BlenderAddon"]
+	path = dnn_mocap/QuickMocap-BlenderAddon
+	url = https://github.com/vltmedia/QuickMocap-BlenderAddon.git
