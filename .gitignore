@@ -10,6 +10,8 @@ unity_project/[Bb]uilds/
 unity_project/[Ll]ogs/
 unity_project/[Mm]emoryCaptures/
 
+SMPL_unity_v.1.0.0/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !unity_project/[Aa]ssets/**/*.meta
 

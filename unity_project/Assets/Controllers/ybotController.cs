@@ -80,7 +80,10 @@ public class ybotController : MonoBehaviour
             animator.SetBool("doJump", true);
         }
 
-        
+        else 
+        {
+            animator.SetBool("doJump", false);
+        }
     }
 
     private void Awake()
