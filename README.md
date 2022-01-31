@@ -5,6 +5,6 @@ Unity scene for game tutorial startup
 
 ![plot](./data/Diagram.png)
 
-## Current results
+## Current results (with ROMP pose regression)
 
-![plot](./data/PoseEstimation3.mp4)
+![PoseEstimationDemo](https://user-images.githubusercontent.com/22889993/151849503-a40ddb93-adbf-4fe6-8fe4-16a9e21acdbe.gif)
